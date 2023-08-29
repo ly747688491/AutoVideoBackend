@@ -1,0 +1,407 @@
+[2023-08-22 09:21:44,444] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:24:11,294] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\serializers.py changed, reloading.
+[2023-08-22 09:24:13,714] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:24:55,929] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\urls.py changed, reloading.
+[2023-08-22 09:24:58,335] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:25:01,515] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\urls.py changed, reloading.
+[2023-08-22 09:25:03,872] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:25:09,564] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\urls.py changed, reloading.
+[2023-08-22 09:25:11,963] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:25:13,920] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\urls.py changed, reloading.
+[2023-08-22 09:25:16,277] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:25:19,532] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\urls.py changed, reloading.
+[2023-08-22 09:25:21,883] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:25:25,908] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\urls.py changed, reloading.
+[2023-08-22 09:25:28,333] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:25:31,477] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\urls.py changed, reloading.
+[2023-08-22 09:25:33,859] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:25:40,285] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 156457
+[2023-08-22 09:25:42,838] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-theme.min.css HTTP/1.1" 200 23411
+[2023-08-22 09:25:42,874] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[2023-08-22 09:25:42,875] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/font-awesome-4.0.3.css HTTP/1.1" 200 21658
+[2023-08-22 09:25:42,877] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24244
+[2023-08-22 09:25:42,877] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/css/base.css HTTP/1.1" 200 6156
+[2023-08-22 09:25:42,880] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/css/jquery.json-view.min.css HTTP/1.1" 200 1307
+[2023-08-22 09:25:42,885] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/js/jquery.json-view.min.js HTTP/1.1" 200 2700
+[2023-08-22 09:25:42,887] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/js/api.js HTTP/1.1" 200 10391
+[2023-08-22 09:25:42,889] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[2023-08-22 09:25:42,889] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+[2023-08-22 09:25:42,896] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/coreapi-0.1.1.js HTTP/1.1" 200 157600
+[2023-08-22 09:25:42,921] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[2023-08-22 09:25:43,192] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/img/favicon.ico HTTP/1.1" 304 0
+[2023-08-22 09:29:37,728] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /api/system/groups/2/add_permission/ HTTP/1.1" 200 74
+[2023-08-22 09:31:33,380] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\groups.py changed, reloading.
+[2023-08-22 09:31:35,806] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:31:48,932] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /api/system/groups/2/add_permission/ HTTP/1.1" 200 74
+[2023-08-22 09:32:23,374] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:32:33,020] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /api/system/groups/2/add_permission/ HTTP/1.1" 200 93
+[2023-08-22 09:34:36,229] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /api/system/groups/2/add_permission/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\fields\__init__.py", line 1823, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ','
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\Work File\Background\BackEndServer\apps\system\views\groups.py", line 30, in add_permission
+    perm = Permission.objects.get(id=permission)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\query.py", line 424, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\query.py", line 941, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\query.py", line 961, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\query.py", line 968, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\sql\query.py", line 1393, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\sql\query.py", line 1412, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\sql\query.py", line 1347, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\sql\query.py", line 1193, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\lookups.py", line 25, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\lookups.py", line 77, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\db\models\fields\__init__.py", line 1825, in get_prep_value
+    raise e.__class__(
+ValueError: Field 'id' expected a number but got ','.
+[2023-08-22 09:34:36,250] [basehttp.py:161] [basehttp:log_message] [ERROR]- "PUT /api/system/groups/2/add_permission/ HTTP/1.1" 500 170310
+[2023-08-22 09:36:18,125] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\groups.py changed, reloading.
+[2023-08-22 09:36:20,639] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:36:32,269] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\groups.py changed, reloading.
+[2023-08-22 09:36:34,623] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:36:38,708] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\groups.py changed, reloading.
+[2023-08-22 09:36:41,154] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:36:44,007] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\groups.py changed, reloading.
+[2023-08-22 09:36:46,379] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:36:48,302] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\groups.py changed, reloading.
+[2023-08-22 09:36:50,720] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:36:55,125] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\groups.py changed, reloading.
+[2023-08-22 09:36:57,445] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:37:00,330] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\groups.py changed, reloading.
+[2023-08-22 09:37:02,728] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 09:37:24,521] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /api/system/groups/2/add_permission/ HTTP/1.1" 200 74
+[2023-08-22 09:38:07,688] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /api/system/groups/2/add_permission/ HTTP/1.1" 200 74
+[2023-08-22 09:38:15,474] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /api/system/groups/2/add_permission/ HTTP/1.1" 200 74
+[2023-08-22 09:38:21,860] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /api/system/groups/2/add_permission/ HTTP/1.1" 200 74
+[2023-08-22 09:39:48,479] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /api/system/groups/2/add_permission/ HTTP/1.1" 200 74
+[2023-08-22 09:40:11,474] [basehttp.py:161] [basehttp:log_message] [INFO]- "PUT /api/system/groups/3/add_permission/ HTTP/1.1" 200 74
+[2023-08-22 10:06:43,886] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 10:06:48,327] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 302 0
+[2023-08-22 10:06:48,531] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 156457
+[2023-08-22 10:06:48,609] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24244
+[2023-08-22 10:08:00,359] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/groups/ HTTP/1.1" 200 184
+[2023-08-22 10:18:19,011] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 10:58:45,899] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 10:58:48,410] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 10:59:47,983] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 10:59:50,329] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:01:13,831] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 11:01:16,195] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:01:22,357] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 161108
+[2023-08-22 11:01:22,494] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24616
+[2023-08-22 11:04:56,536] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 11:04:58,924] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:05:07,249] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160124
+[2023-08-22 11:05:07,362] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24392
+[2023-08-22 11:05:17,327] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:05:23,564] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:07:47,033] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 11:07:49,497] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:07:51,578] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:07:51,695] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:19:47,283] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 11:19:49,687] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:19:56,333] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:19:56,442] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:19:59,763] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:20:03,393] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:20:03,510] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:20:06,271] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:20:07,735] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:20:08,287] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:20:08,479] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:20:26,568] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 11:20:29,016] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:20:32,958] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 302 0
+[2023-08-22 11:20:33,183] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:20:33,255] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:20:49,110] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:21:30,532] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 11:21:32,992] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:21:38,972] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:21:39,087] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:21:42,802] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:22:31,329] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 11:22:33,785] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:22:44,091] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 156457
+[2023-08-22 11:22:44,209] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24244
+[2023-08-22 11:23:53,142] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/8325/ HTTP/1.1" 200 109
+[2023-08-22 11:24:57,593] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-22 11:25:20,491] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/groups/ HTTP/1.1" 200 109
+[2023-08-22 11:28:23,387] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:28:29,748] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 302 0
+[2023-08-22 11:28:29,959] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 156457
+[2023-08-22 11:28:30,031] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24244
+[2023-08-22 11:29:02,616] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 11:29:05,042] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:29:09,765] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:29:09,873] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:29:18,957] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:30:12,387] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\BackEndServer\settings.py changed, reloading.
+[2023-08-22 11:30:14,804] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:30:24,467] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:30:24,575] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:30:27,438] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:30:30,376] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:30:30,486] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:30:33,062] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 109
+[2023-08-22 11:30:46,262] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\BackEndServer\settings.py changed, reloading.
+[2023-08-22 11:30:48,669] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:30:54,209] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 302 0
+[2023-08-22 11:30:54,404] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:30:54,471] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:31:00,975] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:31:01,063] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:31:08,206] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/groups/ HTTP/1.1" 200 184
+[2023-08-22 11:31:17,903] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /api/system/user/get_captcha/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+TypeError: get_captcha() takes 1 positional argument but 2 were given
+[2023-08-22 11:31:17,908] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /api/system/user/get_captcha/ HTTP/1.1" 500 98541
+[2023-08-22 11:32:11,039] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 11:32:13,445] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:32:23,839] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /api/system/user/get_captcha/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "E:\Work File\Background\BackEndServer\utils\response.py", line 38, in render
+    return super(FitJSONRenderer, self).render(response_body.dict, accepted_media_type, renderer_context)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\renderers.py", line 99, in render
+    ret = json.dumps(
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\json\__init__.py", line 234, in dumps
+    return cls(
+  File "D:\anaconda3\envs\Django\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "D:\anaconda3\envs\Django\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\utils\encoders.py", line 66, in default
+    return tuple(item for item in obj)
+TypeError: 'Request' object is not iterable
+[2023-08-22 11:32:23,847] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /api/system/user/get_captcha/ HTTP/1.1" 500 112503
+[2023-08-22 11:32:28,928] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:32:29,058] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:32:32,210] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /api/system/user/get_captcha/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "E:\Work File\Background\BackEndServer\utils\response.py", line 38, in render
+    return super(FitJSONRenderer, self).render(response_body.dict, accepted_media_type, renderer_context)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\renderers.py", line 99, in render
+    ret = json.dumps(
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\utils\json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\json\__init__.py", line 234, in dumps
+    return cls(
+  File "D:\anaconda3\envs\Django\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "D:\anaconda3\envs\Django\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\utils\encoders.py", line 66, in default
+    return tuple(item for item in obj)
+TypeError: 'Request' object is not iterable
+[2023-08-22 11:32:32,215] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /api/system/user/get_captcha/ HTTP/1.1" 500 112503
+[2023-08-22 11:33:03,579] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 11:33:05,935] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:33:14,006] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 49
+[2023-08-22 11:33:34,828] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\permission.py changed, reloading.
+[2023-08-22 11:33:37,313] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:33:44,862] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 49
+[2023-08-22 11:33:50,480] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:33:50,574] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 11:33:53,624] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 49
+[2023-08-22 11:34:04,022] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/groups/ HTTP/1.1" 200 184
+[2023-08-22 11:34:50,643] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/system/groups/ HTTP/1.1" 200 109
+[2023-08-22 11:36:17,262] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\system\views\users.py changed, reloading.
+[2023-08-22 11:36:19,630] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 11:52:50,522] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 302 0
+[2023-08-22 11:52:50,725] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 11:52:50,840] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 13:53:37,087] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\BackEndServer\urls.py changed, reloading.
+[2023-08-22 13:53:39,799] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 14:00:58,772] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-22 14:19:12,942] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 302 0
+[2023-08-22 14:19:13,155] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 14:19:13,225] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 14:19:23,179] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-22 14:19:37,359] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/refresh/ HTTP/1.1" 200 303
+[2023-08-22 14:24:30,496] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/refresh/ HTTP/1.1" 200 303
+[2023-08-22 14:24:56,270] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 14:24:56,371] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 14:25:05,199] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/refresh/ HTTP/1.1" 200 303
+[2023-08-22 14:44:39,131] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-22 14:47:03,584] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-22 14:52:28,810] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-22 14:53:04,189] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-22 15:08:23,064] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-22 15:09:11,447] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-22 15:15:11,658] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-22 15:18:16,457] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-22 15:51:57,303] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 160128
+[2023-08-22 15:51:57,411] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 24396
+[2023-08-22 15:52:03,608] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/refresh/ HTTP/1.1" 200 303
+[2023-08-23 09:07:46,525] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-23 09:33:18,563] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /api/system/user/get_captcha/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 11001 connecting to redis:6379. getaddrinfo failed.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 415, in initial
+    self.check_permissions(request)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 332, in check_permissions
+    if not permission.has_permission(request, self):
+  File "E:\Work File\Background\BackEndServer\apps\system\permission.py", line 36, in has_permission
+    perms = cache.get(request.user.username + '__perms')
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+  File "D:\anaconda3\envs\Django\lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+  File "D:\anaconda3\envs\Django\lib\site-packages\redis\client.py", line 505, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\anaconda3\envs\Django\lib\site-packages\redis\connection.py", line 1073, in get_connection
+    connection.connect()
+  File "D:\anaconda3\envs\Django\lib\site-packages\redis\connection.py", line 265, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 11001 connecting to redis:6379. getaddrinfo failed.
+[2023-08-23 09:33:18,579] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /api/system/user/get_captcha/ HTTP/1.1" 500 154577
+[2023-08-23 09:34:02,337] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/user/get_captcha/ HTTP/1.1" 200 49
+[2023-08-23 09:34:16,185] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /api/system/user/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\client\default.py", line 260, in get
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 11001 connecting to redis:6379. getaddrinfo failed.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 415, in initial
+    self.check_permissions(request)
+  File "D:\anaconda3\envs\Django\lib\site-packages\rest_framework\views.py", line 332, in check_permissions
+    if not permission.has_permission(request, self):
+  File "E:\Work File\Background\BackEndServer\apps\system\permission.py", line 36, in has_permission
+    perms = cache.get(request.user.username + '__perms')
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\cache.py", line 36, in _decorator
+    raise e.__cause__
+  File "D:\anaconda3\envs\Django\lib\site-packages\django_redis\client\default.py", line 258, in get
+    value = client.get(key)
+  File "D:\anaconda3\envs\Django\lib\site-packages\redis\commands\core.py", line 1829, in get
+    return self.execute_command("GET", name)
+  File "D:\anaconda3\envs\Django\lib\site-packages\redis\client.py", line 505, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "D:\anaconda3\envs\Django\lib\site-packages\redis\connection.py", line 1073, in get_connection
+    connection.connect()
+  File "D:\anaconda3\envs\Django\lib\site-packages\redis\connection.py", line 265, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 11001 connecting to redis:6379. getaddrinfo failed.
+[2023-08-23 09:34:16,193] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /api/system/user/ HTTP/1.1" 500 154335

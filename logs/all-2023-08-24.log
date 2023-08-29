@@ -1,0 +1,30 @@
+[2023-08-24 13:52:52,642] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-08-24 13:56:00,822] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 302 0
+[2023-08-24 13:56:01,332] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/ HTTP/1.1" 200 175389
+[2023-08-24 13:56:03,364] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-theme.min.css HTTP/1.1" 200 23411
+[2023-08-24 13:56:03,406] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/coreapi-0.1.1.js HTTP/1.1" 200 157600
+[2023-08-24 13:56:03,406] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/css/jquery.json-view.min.css HTTP/1.1" 200 1307
+[2023-08-24 13:56:03,407] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/css/base.css HTTP/1.1" 200 6156
+[2023-08-24 13:56:03,409] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 26100
+[2023-08-24 13:56:03,420] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/js/jquery.json-view.min.js HTTP/1.1" 200 2700
+[2023-08-24 13:56:03,421] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/js/api.js HTTP/1.1" 200 10391
+[2023-08-24 13:56:03,422] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[2023-08-24 13:56:03,423] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+[2023-08-24 13:56:03,426] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/font-awesome-4.0.3.css HTTP/1.1" 200 21658
+[2023-08-24 13:56:03,432] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[2023-08-24 13:56:03,587] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[2023-08-25 14:48:37,560] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[2023-08-25 14:48:37,561] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/bootstrap-theme.min.css HTTP/1.1" 304 0
+[2023-08-25 14:48:37,567] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/css/font-awesome-4.0.3.css HTTP/1.1" 304 0
+[2023-08-25 14:48:37,568] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/css/base.css HTTP/1.1" 304 0
+[2023-08-25 14:48:37,568] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/css/jquery.json-view.min.css HTTP/1.1" 304 0
+[2023-08-25 14:48:37,569] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/coreapi-0.1.1.js HTTP/1.1" 304 0
+[2023-08-25 14:48:37,651] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+[2023-08-25 14:48:37,657] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[2023-08-25 14:48:37,658] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/docs/schema.js HTTP/1.1" 200 26100
+[2023-08-25 14:48:37,658] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/js/jquery.json-view.min.js HTTP/1.1" 304 0
+[2023-08-25 14:48:37,659] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/docs/js/api.js HTTP/1.1" 304 0
+[2023-08-25 14:48:37,776] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/rest_framework/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[2023-08-25 17:12:50,257] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /api/token/ HTTP/1.1" 200 576
+[2023-08-25 17:12:51,136] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /api/system/Info/get_UserInfo/ HTTP/1.1" 200 118
+[2023-08-26 11:21:59,083] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- E:\Work File\Background\BackEndServer\apps\Account\models.py changed, reloading.
